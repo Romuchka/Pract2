@@ -1,0 +1,7 @@
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\bin\Debug\Практика2.exe.config
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\bin\Debug\Практика2.exe
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\bin\Debug\Практика2.pdb
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\obj\Debug\Практика2.csproj.AssemblyReference.cache
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\obj\Debug\Практика2.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\obj\Debug\Практика2.exe
+C:\Users\Nelly\Desktop\Программирование\Практика2\Практика2\obj\Debug\Практика2.pdb
