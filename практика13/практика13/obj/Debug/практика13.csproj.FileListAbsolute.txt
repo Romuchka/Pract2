@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\практика13\практика13\bin\Debug\практика13.exe.config
+C:\Users\Asus\source\repos\практика13\практика13\bin\Debug\практика13.exe
+C:\Users\Asus\source\repos\практика13\практика13\bin\Debug\практика13.pdb
+C:\Users\Asus\source\repos\практика13\практика13\obj\Debug\практика13.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\практика13\практика13\obj\Debug\практика13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\практика13\практика13\obj\Debug\практика13.exe
+C:\Users\Asus\source\repos\практика13\практика13\obj\Debug\практика13.pdb
